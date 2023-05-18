@@ -1,0 +1,108 @@
+{
+  "开发指南": [
+    {
+      "name": "guide",
+      "path": "/guide",
+      "desc": "指南"
+    },
+    {
+      "name": "logs",
+      "path": "/logs",
+      "desc": "更新日志"
+    }
+  ],
+  "组件": [
+    {
+      "desc": "功能",
+      "items": [
+        {
+          "desc": "图标背景",
+          "icon": "fire",
+          "name": "icon",
+          "path": "/icon"
+        },
+        {
+          "desc": "Loading 加载",
+          "icon": "loading2",
+          "name": "loading",
+          "path": "/loading"
+        },
+        {
+          "desc": "数字翻牌器",
+          "icon": "orderedlist",
+          "name": "countTo",
+          "path": "/count-to"
+        }
+      ]
+    },
+    {
+      "desc": "布局装饰",
+      "items": [
+        {
+          "desc": "BorderBox 边框盒子",
+          "icon": "expend",
+          "name": "border",
+          "path": "/border"
+        },
+        {
+          "desc": "Decorator 装饰器",
+          "icon": "gift",
+          "name": "decorator",
+          "path": "/decorator"
+        }
+      ]
+    },
+    {
+      "desc": "图表类",
+      "items": [
+        {
+          "desc": "CapsuleChart 胶囊柱图",
+          "icon": "unorderedlist",
+          "name": "capsule-chart",
+          "path": "/capsule-chart"
+        },
+        {
+          "desc": "LiquidFill 水球图",
+          "icon": "bg-colors",
+          "name": "liquidfill",
+          "path": "/liquidfill"
+        },
+        {
+          "desc": "ProgressBar 进度图",
+          "icon": "minus",
+          "name": "progress-bar",
+          "path": "/progress-bar"
+        },
+        {
+          "desc": "ConicalChart 锥形图",
+          "icon": "up",
+          "name": "conical-chart",
+          "path": "/conical-chart"
+        },
+        {
+          "desc": "FlylineChart 飞线图",
+          "icon": "rocket-fill",
+          "name": "flyline-chart",
+          "path": "/flyline-chart"
+        }
+      ]
+    },
+    {
+      "desc": "轮播",
+      "items": [
+        {
+          "desc": "ScrollTable 轮播表格",
+          "icon": "table",
+          "name": "scroll-table",
+          "path": "/scroll-table"
+        },
+        {
+          "desc": "ScrollRank 轮播排名",
+          "icon": "orderedlist",
+          "name": "scroll-rank",
+          "path": "/scroll-rank"
+        }
+      ]
+    }
+  ]
+}
