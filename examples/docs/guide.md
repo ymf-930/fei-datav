@@ -8,9 +8,9 @@
 
 组件的宽高皆为100%，用于根据父容器宽高自适应。
 
-由于组件皆为大屏数据展示使用，因此，demo统一使用神色背景，组件文字等也都为浅色，如需建立白底的数据展示，需自行修改组件内容颜色。
+由于组件皆为大屏数据展示使用，因此，demo统一使用深色背景，组件文字等也都为浅色，如需建立白底的数据展示，需自行修改组件内容颜色。
 
-[![NPM version](https://img.shields.io/npm/v/bin-datav.svg)](https://www.npmjs.com/package/bin-datav)
+[![NPM version](https://img.shields.io/badge/npm-v0.1.0-brightgreen)](https://www.npmjs.com/package/fei-datav)
 
 ### 安装
 
@@ -32,12 +32,12 @@ yarn add fei-datav
 
 ```javascript
 import { createApp } from 'vue'
-import BinDatav from 'fei-datav'
+import FeiDatav from 'fei-datav'
 import App from './App.vue'
 import 'fei-datav/lib/styles/index.css'
 
 const app = createApp(App)
-app.use(BinDatav)
+app.use(FeiDatav)
 app.mount('#app')
 ```
 

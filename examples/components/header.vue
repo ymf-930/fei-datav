@@ -37,7 +37,7 @@ export default {
       this.$refs.searchRef.handleOpen()
     },
     handleCommand(name) {
-      this.$util.open(`https://github.com/wangbin3162/${name}`, true)
+      this.$util.open(`https://github.com/ymf-930/${name}`, true)
     },
   },
 }
