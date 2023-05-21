@@ -10,7 +10,7 @@
 
 由于组件皆为大屏数据展示使用，因此，demo统一使用深色背景，组件文字等也都为浅色，如需建立白底的数据展示，需自行修改组件内容颜色。
 
-[![NPM version](https://img.shields.io/badge/npm-v0.1.0-brightgreen)](https://www.npmjs.com/package/fei-datav)
+[![NPM version](https://img.shields.io/badge/npm-v0.2.0-brightgreen)](https://www.npmjs.com/package/fei-datav)
 
 ### 安装
 

@@ -23,7 +23,7 @@
     data() {
       return {
         startVal: 0,
-        endVal: 2022
+        endVal: 2023
       }
     },
     methods: {
@@ -70,7 +70,7 @@
     data() {
       return {
         startVal: 0,
-        endVal: 2022
+        endVal: 2023
       }
     },
     methods: {

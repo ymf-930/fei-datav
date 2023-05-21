@@ -65,7 +65,7 @@
     "css-minimizer-webpack-plugin": "^5.0.0",
     "eslint": "^8.40.0",
     "eslint-plugin-vue": "^9.13.0",
-    "f-ui-one": "^1.0.4",
+    "f-ui-one": "^1.0.5",
     "file-loader": "^6.2.0",
     "file-save": "^0.2.0",
     "gulp": "^4.0.2",

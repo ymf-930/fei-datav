@@ -16,6 +16,11 @@
         </f-tooltip>
         <router-link :to="{ name: 'guide' }" class="active">指南</router-link>
         <a
+            href="https://gitee.com/ymf930/fei-datav"
+            class="github"
+            target="_blank"
+        >Gitee</a>
+        <a
           href="https://github.com/ymf-930/fei-datav"
           class="github"
           target="_blank"

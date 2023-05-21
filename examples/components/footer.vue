@@ -1,6 +1,6 @@
 <template>
   <footer class="footer">
-    MIT Licensed | Copyright © 2022-present fei-datav
+    MIT Licensed | Copyright © 2023-present fei-datav
   </footer>
 </template>
 
